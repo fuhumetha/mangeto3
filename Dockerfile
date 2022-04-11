@@ -1,4 +1,4 @@
-FROM rootgamer/mang3to:simple
+FROM rootgamer/magn3to:simple
 
 COPY . .
 
